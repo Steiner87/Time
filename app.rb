@@ -44,5 +44,4 @@ def time ts1,ts2
 
 end
 
-time rand(Time.now.to_i),2592000
-
+# time rand(Time.now.to_i),2592000
